@@ -1,4 +1,4 @@
-package ir.alirezaeasazade.aidl_tutorial;
+package ir.alirezaeasazade.server;
 
 import org.junit.Test;
 

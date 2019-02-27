@@ -1,5 +1,5 @@
 // IComman.aidl
-package ir.alirezaeasazade.aidl_tutorial;
+package ir.alirezaeasazade.server;
 
 
 interface IComman {

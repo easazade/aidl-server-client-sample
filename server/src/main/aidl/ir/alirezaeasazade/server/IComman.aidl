@@ -1,7 +1,7 @@
-// iComman.aidl
+// IComman.aidl
 package ir.alirezaeasazade.server;
 
 
-interface iComman {
+interface IComman {
     int calculate(int num1,int num2);
 }

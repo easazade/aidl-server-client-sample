@@ -4,7 +4,7 @@ import android.app.Service;
 import android.content.Intent;
 import android.os.IBinder;
 import android.os.RemoteException;
-import ir.alirezaeasazade.server.iComman.Stub;
+import ir.alirezaeasazade.server.IComman.Stub;
 
 public class MyService extends Service {
 
